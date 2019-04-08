@@ -1,0 +1,2 @@
+# myApp
+.net Core test
